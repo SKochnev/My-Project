@@ -1,4 +1,4 @@
-@Library('jenkins_libs') _
+@Library('My-Project') _
 
 gitsync(AGENT: "windows",
         DB_USER_CREDENTIONALS_ID: "DB_USER_CREDENTIONALS_ID",
