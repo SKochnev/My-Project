@@ -1,5 +1,5 @@
 @Library('My-Project') _
 
-gitsync(AGENT: "windows",
+gitsync(AGENT: "win",
         DB_USER_CREDENTIONALS_ID: "DB_USER_CREDENTIONALS_ID",
         V8VERSION: "8.3.10")
